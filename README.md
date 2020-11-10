@@ -1,4 +1,4 @@
-# solution_olimpiad_tasks
+# solution_problems
 ``In this repo I with you solve hard tasks.``
 ## [---CodeForce---](https://codeforces.com/)
 ![screenshot of sample](https://c.radikal.ru/c33/2010/da/3ebd16815af1.png)
