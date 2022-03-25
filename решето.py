@@ -11,3 +11,4 @@ while i * i < n:
 for i in range(n):
     if ar[i] == 0:
         print(i)
+# it is very simple solution and it's good :)
